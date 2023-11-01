@@ -45,7 +45,7 @@ const MyProyects = () => {
 
         <div className='w-80 aspect-square hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
           <a href="https://entregable2-blue.vercel.app/" target="_blank" className=" ">
-            <img className=" " src="public/Untitled.png" alt="project" />
+            <img className=" " src="/Untitled.png" alt="project" />
             <p className=" ">
               <span>
                 WEATHER APP.
