@@ -4,7 +4,7 @@ import CanCodes from './components/CanCodes';
 import { IconHeartCode } from '@tabler/icons-react';
 import AbountMe from './components/AbountMe';
 import MyProyects from './components/MyProyects';
-import Addresses from './components/addresses';
+import Addresses from './components/Addresses';
 import ContactMe from './ContactMe';
 
 function App() {
