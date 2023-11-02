@@ -11,7 +11,7 @@ const AbountMe = () => {
                     <div className='px-10 py-40 '>
                         <h1 className='text-[#08dcf8] text-2xl  font-extrabold'>Discover</h1>
                         <h1 className='text-4xl py-6'>Abount Me</h1>
-                        <hr className='w-40 border-[#08dcf8]  border-[2px]' />
+                        <hr className='sm:w-60 md:w-96 border-[#08dcf8]  border-[2px]' />
                         <h1 className='py-7'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, facere dolorum, tenetur cumque nobis veniam laborum sequi ducimus neque iure, cupiditate eaque blanditiis voluptate ad sed rem incidunt quisquam explicabo?</h1>
                         <div className='flex justify-center p-5 
            w-full  border-[#08dcf8] border-[3px]'>
