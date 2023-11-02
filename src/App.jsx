@@ -29,7 +29,8 @@ function App() {
         </div>
         
       </div>
-      <div style={{ backgroundImage: 'url("/Ellipse.png")' }} >
+      <div style={{ backgroundImage: 'url("/Ellipse.png")' }}  >
+        
         <CanCodes />
         <hr className=" border-[#08dcf8] border-[1px]" />
         <div id="proyects" className='text-center '>
@@ -38,6 +39,7 @@ function App() {
 
           </div>
           <hr className=" border-[#08dcf8]  border-[1px]" />
+        <div className='ps-20'>  
           <MyProyects />
         </div>
         <div id='about-me'><AbountMe />
@@ -45,6 +47,7 @@ function App() {
         <div className=' bg-[#060718]' id='contact-me'>
           <ContactMe />
         </div>
+      </div>
       </div>
     </main>
   );
