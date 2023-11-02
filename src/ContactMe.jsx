@@ -17,7 +17,8 @@ const ContactMe = () => {
                 </div></a>
                 <a href="jcoronelzarabanda@gmail.com">
                 <div className=" hover:bg-[#212258] text-center">
-                    <h1 className=" text-[#08dcf8]"> <IconMail stroke-width="3" width="100" height="100" />jcoronelzarabanda@gmail.com</h1>
+                    <h1 className=" text-[#08dcf8]"> <IconMail stroke-width="3" width="100" height="100" />jcoronelzarabanda
+                    @gmail.com</h1>
                 </div></a>
                 <a href="https://web.whatsapp.com/">
                 <div className=" hover:bg-[#212258] text-center">

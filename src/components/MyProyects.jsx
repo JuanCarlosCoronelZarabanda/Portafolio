@@ -1,7 +1,7 @@
 const MyProyects = () => {
   return (
     <div className=" pr-20">
-      <div className="grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-4 w-full mx-auto pt-10 pl-2">
+      <div className="grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-4 w-full mx-auto pt-10 pl-40">
 
       <div className='w-80 hover:w-[400px] hover:gap-0 pt-20  border-[#08dcf8] border-[3px]'>
           <a href="https://entregable1-livid.vercel.app/" target="_blank" className="">
@@ -35,7 +35,7 @@ const MyProyects = () => {
               <span>
                 POKEDEX.
                 En esta practica aprendi: React router y Redux.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quis, nulla numquam, enim ipsa optio officiis voluptatem omnis saepe in repellat expedita, harum architecto! Expedita quae architecto impedit ea non?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quis, nulla numquam, enim ipsa optio officiis voluptatem omnis saepe in repellat expedita, harum architecto! Expedita quae architecto impedit ea non?sint omnis hic, fugit ratione explicabo rem. Enim quis reiciendis cum. In, maxime exercitationem?
               </span>
             </p>
           </a>
