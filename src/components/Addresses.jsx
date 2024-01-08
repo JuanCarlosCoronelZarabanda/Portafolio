@@ -2,9 +2,9 @@ const Addresses = () => {
     return (
 
 
-        <div className=" w-full h-full flex-justify-between bg-[#161430c2] ">
+        <div className=" w-full h-full flex-justify-around bg-[#161430c2] ">
 
-            <div className="h-full flex justify-center gap-4 text-center">
+            <div className="h-full flex gap-4 text-center">
 
                 <a href="#home">
                     <div className="sm:w-[50px] md:w-[200px] h-full bg-[#0e1c35] hover:bg-[#212258] pt-5">
@@ -16,7 +16,7 @@ const Addresses = () => {
                     </div></a>
                 <a href="#about-me">
                     <div className="sm:w-[50px] md:w-[200px] h-full bg-[#0e1c35] hover:bg-[#212258] pt-5 ">
-                        <span className="md:text-2xl md:font-bold text-blue-600">Abount me</span>
+                        <span className="md:text-2xl md:font-bold text-blue-600">About Me</span>
                     </div> </a>
                 <a href="#contact-me">
                     <div className="sm:w-[50px] md:w-[200px] h-full bg-[#0e1c35] hover:bg-[#212258] pt-5 ">

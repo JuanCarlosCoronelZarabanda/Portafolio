@@ -4,14 +4,14 @@ import CanCodes from './components/CanCodes';
 import { IconHeartCode } from '@tabler/icons-react';
 import AbountMe from './components/AbountMe';
 import MyProyects from './components/MyProyects';
-import Addresses from './components/Addresses';
 import ContactMe from './ContactMe';
+import Addresses from './components/addresses';
 
 function App() {
   return (
     <main className='bg-[#0e0d16]  text-[#ffffff]' >
-      <header className=' h-20  fixed w-full '>
-        <Addresses />
+       <header className=' h-20  fixed w-full '>
+         <Addresses /> 
       </header>
       <div className='grid grid-cols-2 items-start bg-[#0e0d16]' id="home">
         <div className='px-[20px] w-full grid md:grid-cols-2 gap-1 pt-[200px]  pr-[60%]'>
@@ -25,28 +25,28 @@ function App() {
           <h1 className='text-3xl pl-0 text-[#08dcf8] font-bold flex justify-stretch'><IconHeartCode size={40} />I Can:</h1>
         </div>
         <div  className='sm:h-1 py-40 ps-10 sm:w-1 md:h-[400px] md:w-[500px] md:pt-0 lg:h-[500px] lg:w-[700px]  lg:pt-0'>
-          <img src="/Frame.png" alt="" />
+          <img src="/Frame.png" alt=""  className='hover:max-[500px]:'/>
         </div>
         
       </div>
-      <div style={{ backgroundImage: 'url("/Ellipse.png")' }}  >
+        <div style={{ backgroundImage: 'url("/Ellipse.png")' }}   > 
         
         <CanCodes />
         <hr className=" border-[#08dcf8] border-[1px]" />
-        <div id="proyects" className='text-center '>
+         <div id="proyects" className='text-center '>
           <div className='py-10'>
             <h1 className='text-3xl font-bold text-[#19265f] pe-5'>My proyects</h1>
 
-          </div>
+          </div> 
           <hr className=" border-[#08dcf8]  border-[1px]" />
         <div className='ps-20'>  
           <MyProyects />
-        </div>
-        <div id='about-me'><AbountMe />
-        </div>
+        </div> 
+         <div id='about-me'><AbountMe />
+       </div> 
         <div className=' bg-[#060718]' id='contact-me'>
           <ContactMe />
-        </div>
+        </div>   
       </div>
       </div>
     </main>

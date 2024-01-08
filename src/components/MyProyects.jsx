@@ -3,7 +3,7 @@ const MyProyects = () => {
     <div className=" pr-20">
       <div className="grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-4 w-full mx-auto pt-10 pl-40">
 
-      <div className='w-80 hover:w-[400px] hover:gap-0 pt-20  border-[#08dcf8] border-[3px]'>
+      <div className='w-80 md:hover:w-[400px] hover:gap-0 pt-20  border-[#08dcf8] border-[3px]'>
           <a href="https://entregable1-livid.vercel.app/" target="_blank" className="">
             <img className="" src="/cokies.png" alt="project" />
             <p className="">
@@ -16,7 +16,7 @@ const MyProyects = () => {
           </a>
         </div>
 
-        <div className='w-80 aspect-square hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
+        <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
           <a href="https://juancarloscoronelzarabanda.github.io/e-commerce/" target="_blank" className="project project-tile">
             <img className="project-image" src="https://res.cloudinary.com/duu1imwxs/image/upload/v1677270465/eCommerce/hoddie2_utnolh.png" alt="project" />
             <p className="project-title">
@@ -28,7 +28,7 @@ const MyProyects = () => {
             </p>
           </a>
         </div>
-        <div className='w-80 aspect-square hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
+        <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
           <a href="https://pokedex5.vercel.app/" target="_blank" className="">
             <img className=" " src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="project" />
             <p className="project-title">
@@ -43,7 +43,7 @@ const MyProyects = () => {
 
        
 
-        <div className='w-80 aspect-square hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
+        <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px]'>
           <a href="https://entregable2-blue.vercel.app/" target="_blank" className=" ">
             <img className=" " src="/Untitled.png" alt="project" />
             <p className=" ">
@@ -55,7 +55,7 @@ const MyProyects = () => {
             </p>
           </a>
         </div>
-        <div className='w-80 aspect-square hover:w-[400px] hover:gap-0 pt-0  border-[#08dcf8] border-[3px]'>
+        <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0 pt-0  border-[#08dcf8] border-[3px]'>
           <a href="https://entregable3-phi.vercel.app/" target="_blank" className="project project-tile">
           <img src="https://entregable3-phi.vercel.app/img2.png" alt="" className="h-[300px]"/>
             <img className=" " src="https://entregable3-phi.vercel.app/img3.png" alt="project" />
@@ -67,7 +67,7 @@ const MyProyects = () => {
             </p>
           </a>
         </div>
-        <div className='w-80 aspect-square hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px] pt-36'>
+        <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#08dcf8] border-[3px] pt-36'>
           <a href="https://usuarios4.vercel.app/" target="_blank" className="project project-tile">
             <img className=" " src="/123.png" alt="project" />
             <p className=" ">

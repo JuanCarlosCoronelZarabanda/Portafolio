@@ -5,57 +5,63 @@ const CanCodes = () => {
             <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/html.png"
-                    className="h-6/7"
+                    className="sm:h-1 md:h-10"
                     alt="HTML logo"
                 />
             </div>
-            <div className=" sm:w-20  hover:bg-[#09168f80] flex items-center  ">
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center">
+                <img
+                    src="/pngwing.com.png"
+                    className="sm:h-1 md:h-12"
+                    alt="Vs logo"
+                />
+            </div>
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/css.png"
-                    className="h-full"
-                    alt="CSS logo"
+                    className="sm:h-1 md:h-10"
+                    alt="HTML logo"
                 />
             </div>
-            <div className=" sm:w-20 hover:bg-[#09168f80] flex items-center p-1 ">
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/js.png"
-                    className="h-full"
-                    alt="js logo"
+                    className="sm:h-1 md:h-10"
+                    alt="HTML logo"
                 />
             </div>
-            <div className=" sm:w-20 hover:bg-[#09168f80] flex items-center p-1 ">
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/react.png"
-                    className="h-full"
-                    alt="react logo"
+                    className="sm:h-1 md:h-10"
+                    alt="HTML logo"
                 />
             </div>
-            
-            <div className=" sm:w-20 hover:bg-[#09168f80] flex items-center p-1">
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/git.png"
-                    className="h-full"
-                    alt="excel logo"
+                    className="sm:h-1 md:h-10"
+                    alt="HTML logo"
                 />
             </div>
-            <div className=" sm:w-20 hover:bg-[#09168f80] flex items-center p-1">
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/responsibe.png"
-                    className="h-full"
-                    alt="excel logo"
+                    className="sm:h-1 md:h-10"
+                    alt="HTML logo"
                 />
             </div>
-            <div className="sm:w-20 hover:bg-[#09168f80] flex items-center p-1">
+            <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/excel.png"
-                    className="h-full"
-                    alt="excel logo"
+                    className="sm:h-1 md:h-10"
+                    alt="HTML logo"
                 />
             </div>
-            <div className="w-30 sm:w-20 md:w-60 hover:bg-[#09168f80] items-center p-1 ">
+            <div className="w-30 sm:w-20 md:w-60 hover:bg-[#09168f80] pt-3 ">
                 <img
                     src="/Tailwind.png"
-                    className="h-full"
+                    className="h-8"
                     alt="Tailwind logo"
                 />
             </div>
