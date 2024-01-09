@@ -5,7 +5,7 @@ import { IconHeartCode } from '@tabler/icons-react';
 import AbountMe from './components/AbountMe';
 import MyProyects from './components/MyProyects';
 import ContactMe from './ContactMe';
-import Addresses from './components/addresses';
+import Addresses from './components/Addresses';
 
 
 function App() {
