@@ -11,7 +11,7 @@ const ContactMe = () => {
                    <a href="https://www.linkedin.com/in/juan-carlos-coronel-zarabanda-241004295/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY24otRZaR1yrs3u3zGR1qA%3D%3D">
                 <div className=" hover:bg-[#212258] text-center">
                 <div className="px-11 md:px-10">
-                <IconBrandLinkedin stroke-width="3" width="50" height="50" />
+                <IconBrandLinkedin stroke-width="3" width="100" height="100" />
                 </div>
                     <h3 className=" text-[#08dcf8]">Juan Carlos Coronel Zarabanda </h3>
                 </div></a>
@@ -19,7 +19,7 @@ const ContactMe = () => {
                 <a href="https://github.com/JuanCarlosCoronelZarabanda?tab=repositories">
                 <div className=" hover:bg-[#212258] text-center">
                 <div className="px-11 md:px-10">
-                <IconBrandGithub stroke-width="3" width="50" height="50" />
+                <IconBrandGithub stroke-width="3" width="100" height="100" />
                 </div>
                     <h3 className=" text-[#08dcf8]"> Juan Carlos Coronel Zarabanda </h3>
                 </div></a>
@@ -27,7 +27,7 @@ const ContactMe = () => {
                 <a href="jcoronelzarabanda@gmail.com">
                 <div className=" hover:bg-[#212258] text-center ">
                 <div className="px-11 md:px-10 ">
-                <IconMail stroke-width="3" width="50" height="50" />
+                <IconMail stroke-width="3" width="100" height="100" />
                 </div>
                     <h3 className=" text-[#08dcf8]"> jcoronelzarabanda
                     @gmail.com</h3>
@@ -36,7 +36,7 @@ const ContactMe = () => {
                 <a href="https://web.whatsapp.com/">
                 <div className="grid-cols-1 hover:bg-[#212258] text-center">
                 <div className="px-11 md:px-10">
-                <IconBrandWhatsapp stroke-width="3" width="50" height="50" />
+                <IconBrandWhatsapp stroke-width="3" width="100" height="100" />
                 </div>
                     <h3 className=" text-[#08dcf8]">+57 3224328940 +57 3005478524 </h3>
                 </div></a>

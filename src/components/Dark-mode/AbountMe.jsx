@@ -33,12 +33,12 @@ const AbountMe = () => {
                         </div> 
                         <div className='py-10'>
                             <a href=""> 
-                            <div className='bg-[#0f9fb3] hover:bg-[#08dcf8] px-5 py-2 flex-justify-end'>
+                            <button className='bg-[#0f9fb3] hover:bg-[#08dcf8] px-5 py-2 flex-justify-end'>
                                 <span>
                                 Visualize CV Freely  
                                 </span>
 
-                            </div>
+                            </button>
                             </a>
                         </div> 
                     </div>
