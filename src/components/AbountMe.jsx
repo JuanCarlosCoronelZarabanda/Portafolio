@@ -32,7 +32,7 @@ const AbountMe = () => {
                             </ul>
                         </div> 
                         <div className='py-10'>
-                            <a href=""> 
+                            <a href="https://drive.google.com/file/d/1EbJhO-X36ErpZkOf-bGzma8-V6ibB2UD/view?usp=sharing"> 
                             <div className='bg-[#0c08f8] hover:bg-[#08dcf8] px-5 py-2 flex-justify-end'>
                                 <span>
                                 Visualize CV Freely  

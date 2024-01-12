@@ -43,7 +43,7 @@ const MyProyects = () => {
 
 
         <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#0c08f8] border-[3px]'>
-          <a href="https://juancarloscoronelzarabanda.github.io/e-commerce/" target="_blank" className="project project-tile">
+          <a href=" " target="_blank" className="project project-tile">
             <img className="project-image" src="https://res.cloudinary.com/duu1imwxs/image/upload/v1677270465/eCommerce/hoddie2_utnolh.png" alt="project" />
             <p className="project-title">
               <span>

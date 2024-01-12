@@ -8,7 +8,7 @@ const AbountMe = () => {
                      <div className='pl-5'>
                     <h1 className='text-[#08dcf8] text-2xl  font-extrabold py-2'>Discover</h1>
                     <hr className='sm:w-full md:w-[480px] border-[#08dcf8]  border-[2px]'/>
-                        <img className='h-[400px] w-[480px] py-2' src='https://lh3.googleusercontent.com/proxy/Uf7zDsT6GyWCKZXCOCicNnJ1AT5mH0eGiSjn8WyHrdRelxiuSMhfO04uGgtqRgYqgjFp5TXrQZZlH9yjSMpkpgBZnAkEnWazea2TxCADCwFXhYL04IcA2DTx6-q3cA' alt='' />
+                        <img className='h-[400px] w-[480px] py-2' src='https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif' alt='' />
                     </div> 
  
                     <div className='px-10 '>
@@ -32,7 +32,7 @@ const AbountMe = () => {
                             </ul>
                         </div> 
                         <div className='py-10'>
-                            <a href=""> 
+                            <a href="https://drive.google.com/file/d/1EbJhO-X36ErpZkOf-bGzma8-V6ibB2UD/view?usp=sharing"> 
                             <button className='bg-[#0f9fb3] hover:bg-[#08dcf8] px-5 py-2 flex-justify-end'>
                                 <span>
                                 Visualize CV Freely  
