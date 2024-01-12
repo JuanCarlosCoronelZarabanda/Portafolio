@@ -4,7 +4,7 @@ import CanCodes from './components/CanCodes';
 import { IconHeartCode } from '@tabler/icons-react';
 import AbountMe from './components/AbountMe';
 import MyProyects from './components/MyProyects';
-import ContactMe from './ContactMe';
+import ContactMe from './components/ContactMe';
 import Addresses from './components/Addresses';
 
 

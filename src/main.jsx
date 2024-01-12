@@ -15,12 +15,14 @@ function Main() {
 
   return (
     <React.StrictMode>
-          <div className="">
+      
+          <div className="fixed top-40 right-20 p-4">
         <button className="h-12 w-32 bg-yellow-200" onClick={changeString}>
           DarkMode
         </button>
-      </div>
-      {currentApp}
+         </div>
+      {currentApp} 
+      
       </React.StrictMode>
   );
 }
@@ -28,12 +30,5 @@ function Main() {
 ReactDOM.createRoot(document.getElementById('root')).render(<Main />);
 
 
-
-
-// ReactDOM.createRoot(document.getElementById('root')).render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-// )
 
  

@@ -1,4 +1,5 @@
-const Addresses = () => {
+const Addresses = ( ) => {
+
     return (
 
 
@@ -28,10 +29,8 @@ const Addresses = () => {
 
 
 
-
-
-
         </div>
+        
 
 
 
@@ -41,4 +40,4 @@ const Addresses = () => {
     )
 }
 
-export default Addresses
+export default Addresses; 

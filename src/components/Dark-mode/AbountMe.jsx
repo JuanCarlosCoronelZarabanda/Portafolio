@@ -8,7 +8,7 @@ const AbountMe = () => {
                      <div className='pl-5'>
                     <h1 className='text-[#08dcf8] text-2xl  font-extrabold py-2'>Discover</h1>
                     <hr className='sm:w-full md:w-[480px] border-[#08dcf8]  border-[2px]'/>
-                        <img className='h-[400px] w-[480px] py-2' src='https://fire-hoodie-356.notion.site/image/https%3A%2F%2Fi.imgur.com%2FNiTjnID.gif?table=block&id=f97dcb84-d096-457a-bfe5-3c197911c4b9&spaceId=863c4272-6152-4a40-b4a1-84d6994c54bb&userId=&cache=v2' alt='' />
+                        <img className='h-[400px] w-[480px] py-2' src='https://lh3.googleusercontent.com/proxy/Uf7zDsT6GyWCKZXCOCicNnJ1AT5mH0eGiSjn8WyHrdRelxiuSMhfO04uGgtqRgYqgjFp5TXrQZZlH9yjSMpkpgBZnAkEnWazea2TxCADCwFXhYL04IcA2DTx6-q3cA' alt='' />
                     </div> 
  
                     <div className='px-10 '>

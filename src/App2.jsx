@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import CanCodes from './components/CanCodes';
+import CanCodes from './components/Dark-mode/CanCodes';
 import { IconHeartCode } from '@tabler/icons-react';
-import AbountMe from './components/AbountMe';
-import MyProyects from './components/MyProyects';
-import ContactMe from './ContactMe';
-import Addresses from './components/Addresses';
+import AbountMe from './components/Dark-mode/AbountMe';
+import MyProyects from './components/Dark-mode/MyProyects';
+import ContactMe from './components/Dark-mode/ContactMe';
+import Addresses from './components/Dark-mode/Addresses';
 
 
 function App() {
