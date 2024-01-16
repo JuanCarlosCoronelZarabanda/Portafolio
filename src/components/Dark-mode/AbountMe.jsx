@@ -3,7 +3,7 @@ const AbountMe = () => {
         <div>
             <div className="w-full " >
 
-                <div className='grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-2  mx-auto py-20 pr-5'>
+                <div className='grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-2  mx-auto py-20 pr-[200px]'>
                
                      <div className='pl-5'>
                     <h1 className='text-[#08dcf8] text-2xl  font-extrabold py-2'>Discover</h1>

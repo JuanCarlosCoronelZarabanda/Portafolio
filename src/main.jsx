@@ -16,7 +16,7 @@ function Main() {
   return (
     <React.StrictMode>
       
-          <div className="fixed top-40 right-20 p-4">
+          <div className="fixed top-20 right-28 pl-16">
         <button className="h-12 w-32 bg-yellow-200" onClick={changeString}>
           DarkMode
         </button>
