@@ -3,15 +3,15 @@ const AbountMe = () => {
         <div>
             <div className=" " >
 
-                <div className='pl-[1px] grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-2  mx-auto py-20 pr-[100px]'>
+                <div className='pl-[30px] grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-2  mx-auto py-20 pr-[200px]'>
                
-                     <div className='pl-5'>
+                     <div className='pl-10'>
                     <h1 className='text-[#0c08f8] text-2xl  font-extrabold py-2'>Discover</h1>
                     <hr className='sm:w-full md:w-[480px] border-[#0c08f8]  border-[2px]'/>
                         <img className='h-[400px] w-[480px] py-2' src='https://fire-hoodie-356.notion.site/image/https%3A%2F%2Fi.imgur.com%2FNiTjnID.gif?table=block&id=f97dcb84-d096-457a-bfe5-3c197911c4b9&spaceId=863c4272-6152-4a40-b4a1-84d6994c54bb&userId=&cache=v2' alt='' />
                     </div> 
  
-                    <div className='pl-28 pr-2'>
+                    <div className='pl-48 pr-1'>
                         
                         <h1 className='text-4xl py-6'>About Me</h1>
                         <hr className='sm:w-60 md:w-96 border-[#0c08f8]  border-[2px]' />

@@ -16,10 +16,21 @@ function Main() {
   return (
     <React.StrictMode>
       
-          <div className="fixed top-20 right-28 pl-16">
-        <button className="h-12 w-32 bg-yellow-200" onClick={changeString}>
-          DarkMode
-        </button>
+          <div className="fixed top-20 right-0">
+          <button className="p-3 " onClick={changeString}>
+        {currentApp.type === App1 ? (
+          <>
+           <img className='h-[80px] hidden' src="/sol.png" alt="" />
+            <img className='h-[50px]' src="/luna.png" alt="" />
+           
+          </>
+        ) : (
+          <>
+            <img className='h-[80px]' src="/sol.png" alt="" />
+            <img className='h-[50px] hidden' src="/luna.png" alt="" />
+          </>
+        )}
+      </button>
          </div>
       {currentApp} 
       

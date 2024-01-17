@@ -8,7 +8,7 @@ const Addresses = () => {
 
                 <a href="#home">
                     <div className="sm:w-[50px] md:w-[200px] h-full bg-[#0e1c35] hover:bg-[#1b1c6bb0] pt-5">
-                        <span className="sm:text-l  md:text-xl md:font-bold text-[#3cd8ff]">Home</span>
+                        <span className="sm:text-  md:text-xl md:font-bold text-[#3cd8ff]">Home</span>
                     </div></a>
                 <a href="#proyects">
                     <div className="sm:w-[50px] md:w-[200px] h-full bg-[#0e1c35]  hover:bg-[#1b1c6bb0] pt-5 ">

@@ -1,7 +1,9 @@
 const CanCodes = () => {
     return (
+        <div className="animate-marquee">
+        
         <div className="w-full h-[60px] px-5 flex justify-stretch">
-
+          
             <div className="w-[80px] md:w-14 hover:bg-[#09168f80] flex items-center px-2">
                 <img
                     src="/html.png"
@@ -65,10 +67,15 @@ const CanCodes = () => {
                     alt="Tailwind logo"
                 />
             </div>
+            
 
 
 
         </div>
+        
+        
+        </div>
+        
     )
 }
 

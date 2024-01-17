@@ -25,7 +25,7 @@ function App() {
           <div className='md:pl-[60px] w-[300px]'>
             <img src='/photo.jpeg' className='rounded-full w-[200px] h-[200px] border-[10px] hover:border-[15px] border-[#0d166b77]' alt='photo' />
           </div>
-          <div className='w-[200px] md:pl-[100px] lg:pl-40 h-[70%]'>
+          <div className='w-[300px] md:pl-[100px] lg:pl-40 h-[70%]'>
             <h1 className='text-4xl font-extrabold  '><span className='text-[#216094]' >Hello!</span>  I am not a robot, I am Juan Carlos Coronel, a web developer.
             </h1>
           </div>
@@ -39,6 +39,7 @@ function App() {
         <div style={{ backgroundImage: 'url("/Ellipse.png")' }}   > 
         
         <CanCodes />
+        
         <hr className=" border-[#08dcf8] border-[1px]" />
          <div id="proyects" className='text-center '>
           <div className='py-10'>

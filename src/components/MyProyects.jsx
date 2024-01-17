@@ -1,6 +1,6 @@
 const MyProyects = () => {
   return (
-    <div className=" pr-20">
+    <div className=" pr-[50px]">
       <div className="grid grid-cols-[repeat(auto-fit,_500px)] justify-center gap-4 w-full mx-auto pt-10 pl-40">
 
       <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#0c08f8] border-[3px] pt-36'>
@@ -9,7 +9,7 @@ const MyProyects = () => {
             <p className=" ">
               <span>
                 USERS.
-                En esta practica aprendi: CRUD’s y métodos HTTP
+                In this practice I learned: CRUD’s y métodos HTTP
                 This is an application where you can manage users through a CRUD. To query, create, delete and update such users by consuming an API.
               </span>
             </p>
@@ -116,7 +116,7 @@ const MyProyects = () => {
 
         <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0  border-[#0c08f8] border-[3px]'>
           <a href="https://entregable2-blue.vercel.app/" target="_blank" className=" ">
-            <img className=" " src="/Untitled.png" alt="project" />
+            <img className=" " src="/unnamed.jpg" alt="project" />
             <p className=" ">
               <span>
                 WEATHER APP.
