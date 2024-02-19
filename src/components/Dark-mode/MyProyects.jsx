@@ -153,7 +153,7 @@ const MyProyects = () => {
 
         <div className='w-80 aspect-square md:hover:w-[400px] hover:gap-0 pt-0  border-[#0c08f8] border-[3px]'>
           <a href="https://entregable3-phi.vercel.app/" target="_blank" className="project project-tile">
-          <img src="https://entregable3-phi.vercel.app/img2.png" alt="" className="h-[300px]"/>
+          <img src="https://entregable3-phi.vercel.app/img2.png" alt="" className="h-[300px] rounded-full animate-spin duration-1000"/>
             <img className=" " src="https://entregable3-phi.vercel.app/img3.png" alt="project" />
             <p className=" ">
               <span>
