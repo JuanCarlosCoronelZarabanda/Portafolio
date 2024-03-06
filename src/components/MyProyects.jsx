@@ -314,21 +314,21 @@ const Gallery = () => {
   ];
 
   return (
-    <div className="gallery-container grid grid-cols-1 md:pr-10 md:pl-40">
+    <div className="gallery-container h-[500px] grid grid-cols-1  md:pl-24 sm:h-[2000px]">
 
       {galleryItems.map((item, index) => (
         <div
           key={index}
           className={`gallery-item ${index !== currentIndex ? "hidden" : ""}`}
         >
-          <div className="w-[334px] md:w-[1200px] h-[650px] md:border-[#19184d81] md:border-[20px] md:pl-20 md:pt-10 ">
+          <div className="w-[400px]  md:w-[1200px] md:px-[10px] h-[650px] md:border-[#19184d81] md:border-[20px] md:pt-10 ">
             <a
               href={item.link}
               target="_blank"
               className="project project-tile"
             >
               <img
-                className="w-[334px] h-[300px] md:h-[400px] md:w-[1000px] md:pl-36"
+                className="w-[400px] h-[300px] md:h-[400px] md:w-[1000px] md:pl-36"
                 src={item.imageUrl}
                 alt="project"
               />
@@ -341,9 +341,9 @@ const Gallery = () => {
               {item.technologies.map((tech, techIndex) => (
                 <div
                   key={techIndex}
-                  className="hidden md:block md: w-[400px] md:h-[80px]  hover:bg-[#09168f80] items-center md:px-2"
+                  className="hidden md:block w-[400px] md:w-[200px] md:h-[80px] items-center "
                 >
-                  <img src={tech} className=" h-10" alt="Technology logo" />
+                  <img src={tech} className=" h-14 w-20" alt="Technology logo" />
                 </div>
               ))}
             </div>
@@ -364,7 +364,7 @@ const Gallery = () => {
       ))}
       
 
-      <div className="hidden md:block grid-cols-1 w-20 md:fixed top-20 right-20 ">
+      <div className="hidden sm:block grid-cols-1 w-20 md:fixed top-20 right-20 ">
                 
                 <a href="https://www.linkedin.com/in/juan-carlos-coronel-zarabanda-241004295/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY24otRZaR1yrs3u3zGR1qA%3D%3D">
              <div className=" hover:bg-[#212258] text-center">
@@ -395,6 +395,9 @@ const Gallery = () => {
              </div></a>
 
          </div>
+
+        
+      
      
 
     </div>

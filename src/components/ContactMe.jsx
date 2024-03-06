@@ -1,10 +1,18 @@
 import { IconBrandGithub } from "@tabler/icons-react"
+import { IconCheese } from "@tabler/icons-react"
 import { IconMail } from "@tabler/icons-react"
 import { IconBrandLinkedin, IconBrandWhatsapp } from "@tabler/icons-react"
 
 const ContactMe = () => {
     return (
-        <div>
+        <div style={{
+            backgroundImage:
+              'url("https://i.pinimg.com/originals/19/78/c9/1978c9953ad4cc1f2de6df68fea83d5c.gif")',
+            backgroundSize: "cover",
+            backgroundPosition: "center bottom",
+            height: "700px",
+            width: "full",
+          }}>
 
             <div className="sm:grid-cols-2 sm:px-20 sm:gap-5 md:pr-72 md:py-60 md:gap-40 md:flex items-start  ">
                 
@@ -41,7 +49,8 @@ const ContactMe = () => {
                 </div></a>
 
             </div>
-            <div className="w-full bg-[#0e0d16] h-20">
+            <div className="w-full bg-[#0e0d16] h-32 pt-10 text-center">
+                <span>Merendemos...</span>
             </div>
         </div>
 
