@@ -28,20 +28,20 @@ const AbountMe = () => {
           <div>
           <ul>
             Juan Carlos Coronel Zarabanda
-            <li>Phone: +57 3224328940</li>
-            <li>Age: 26 </li>
+            <li>Phone: +57 3005478524</li>
+            <li>Age: 27 </li>
           </ul>
           </div>
           <div>
           <ul>
-            <li>Address: Arauca-Colombia</li>
+            <li>Address: Bogota D.C. Colombia</li>
             <li>Hobbie: Gardening</li>
           </ul>
           </div>
         </div>
         </div>
         <div className="py-10 px-10">
-          <a href="https://drive.google.com/file/d/1EbJhO-X36ErpZkOf-bGzma8-V6ibB2UD/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1jQrTBwI1PeVi2PZIkPh0hQhaV9a0KCuK/view?usp=sharing">
             <div className="bg-[#0c08f8] hover:bg-[#08dcf8] px-5 py-2 flex-justify-end">
               <span>Visualize CV Freely</span>
             </div>

@@ -45,7 +45,7 @@ const ContactMe = () => {
                 <div className="px-11 md:px-10">
                 <IconBrandWhatsapp stroke-width="3" width="100" height="100" />
                 </div>
-                    <h3 className=" text-[#08dcf8]">+57 3224328940 </h3>
+                    <h3 className=" text-[#08dcf8]">+57 3005478524 </h3>
                 </div></a>
 
             </div>

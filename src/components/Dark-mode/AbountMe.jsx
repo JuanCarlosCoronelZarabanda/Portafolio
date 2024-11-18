@@ -20,9 +20,9 @@ const AbountMe = () => {
            w-full  border-[#08dcf8] border-[3px]'>
                             <ul>
                                 <li>Name: Juan Carlos Coronel Zarabanda</li>
-                                <li>Phone: +57 3224328940</li>
-                                <li>Age: 26 </li>
-                                <li>Address: Arauca Colombia</li>
+                                <li>Phone: +57 3005478524</li>
+                                <li>Age: 27 </li>
+                                <li>Address: Bogota D.C. Colombia</li>
                             </ul>
                             <ul>
                                 <li>Freelance: Available</li>
@@ -32,7 +32,7 @@ const AbountMe = () => {
                             </ul>
                         </div> 
                         <div className='py-10'>
-                            <a href="https://drive.google.com/file/d/1EbJhO-X36ErpZkOf-bGzma8-V6ibB2UD/view?usp=sharing"> 
+                            <a href="https://drive.google.com/file/d/1jQrTBwI1PeVi2PZIkPh0hQhaV9a0KCuK/view?usp=sharing"> 
                             <button className='bg-[#0f9fb3] hover:bg-[#08dcf8] px-5 py-2 flex-justify-end'>
                                 <span>
                                 Visualize CV Freely  
